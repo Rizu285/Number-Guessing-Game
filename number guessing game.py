@@ -28,5 +28,5 @@ while True:
         print("Too high! Try again.\n")
 
     else:
-        print(f"🎉 Congratulations! You guessed the number in {attempts} attempts.")
+        print(f"Congratulations! You guessed the number in {attempts} attempts.")
         break
